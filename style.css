@@ -1,0 +1,14 @@
+body{
+    background-color: black !important;
+}
+.dclock{
+    color: white;
+    font-size: 60px;
+    display: flex;
+    /* to align item horizontally center  */
+    justify-content: center;
+    /* to align item vertically center  */
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
